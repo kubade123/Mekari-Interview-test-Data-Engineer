@@ -1,0 +1,1 @@
+Code Challenge untuk role data engineer Mekari
